@@ -1,61 +1,46 @@
-Hi, I’m Shreesht Jagga
+# Hi, I’m Shreesht Jagga 
 
-Aspiring Machine Learning and Data Science Intern  
-Actively seeking Summer Internship opportunities
-
----
-
-About Me
-
-I am interested in building data-driven solutions using machine learning and statistical analysis.  
-I focus on practical implementation through real-world projects and continuous learning.
+**Aspiring Machine Learning & Data Science Intern**  
+Passionate about building data-driven solutions using Python and statistical analysis  
+Actively seeking **Summer Internship opportunities**
 
 ---
 
-Skills and Tools
-
-Languages  
-- Python  
-- R  
-
-Data Analysis  
-- NumPy  
-- Pandas  
-
-Machine Learning  
-- Scikit-learn  
-- XGBoost  
-
-Applications  
-- Streamlit  
+## Skills & Tools
+- **Languages:** Python, R  
+- **Data Analysis:** NumPy, Pandas  
+- **Machine Learning:** Scikit-learn, XGBoost  
+- **Visualization & Apps:** Streamlit  
+- **Concepts:** Data Preprocessing, Feature Engineering, Model Evaluation
 
 ---
 
-Featured Projects
+##  Featured Projects
+### 🔹 Indian Stock Predictor
+Machine learning–based Indian stock market prediction system using XGBoost and historical data analysis.  
+**Tech:** Python, Pandas, NumPy, XGBoost
 
-Indian Stock Predictor  
-A machine learning–based Indian stock market prediction system using historical data and XGBoost.  
-Technologies: Python, Pandas, NumPy, XGBoost
+### 🔹 Face & Hand Gesture Detection Model
+Real-time face emotion and hand gesture recognition system using MediaPipe with live webcam input.  
+**Tech:** Python, MediaPipe, Computer Vision
 
-Face and Hand Gesture Detection Model  
-A real-time system for face emotion and hand gesture recognition using live webcam input.  
-Technologies: Python, MediaPipe, Computer Vision
-
-Stress Level Predictor  
-A data-driven application to predict stress levels using machine learning models, deployed with Streamlit.  
-Technologies: Python, Scikit-learn, Streamlit
-
----
-
-Currently Working On
-
-- Strengthening machine learning fundamentals  
-- Exploring real-world datasets  
-- Improving end-to-end ML project deployment skills  
+### 🔹 Stress Level Predictor
+A data-driven stress prediction application built using Random Forest and deployed with Streamlit.  
+**Tech:** Python, Scikit-learn, Streamlit
 
 ---
 
-Contact
+##  What I’m Currently Doing
+- Strengthening ML fundamentals through hands-on projects  
+- Exploring real-world datasets and predictive modeling  
+- Improving end-to-end project deployment skills  
 
-LinkedIn: add-your-link  
-Email: add-your-email
+---
+
+##  Let’s Connect
+-  **LinkedIn:** *https://www.linkedin.com/in/shreessht-jagga/*  
+-  **Email:** *shreesht.jagga@gmail.com*  
+
+---
+
+*Check out my repositories to see my work in Machine Learning and Data Science.*
