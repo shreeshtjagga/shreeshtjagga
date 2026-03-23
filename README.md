@@ -1,7 +1,7 @@
 Hi, I’m **Shreesht Jagga**
 
-**Enthusiast in Machine Learning and Data Science**  
-**Actively seeking Summer Internship opportunities**
+**Interested in Machine Learning and Research of Models**  
+**Actively seeking Summer Internship**
 
 ---
 
